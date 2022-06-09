@@ -6,7 +6,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
-
+``
 ## Algorithm
 #step1:
 Use the standard libraries in python for finding linear regression.
@@ -22,7 +22,7 @@ Calculate the accuracy, confusion and classification report by importing the req
 Obtain the graph.
 #step7:
 stop the programme.
-
+``
 ## Program:
 /*
 Program to implement the the Logistic Regression Using Gradient Descent.
