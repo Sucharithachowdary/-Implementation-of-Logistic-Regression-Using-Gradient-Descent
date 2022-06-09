@@ -6,6 +6,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 ## Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Moodle-Code Runner
+
 ``
 ## Algorithm
 #step1:
@@ -29,7 +30,7 @@ Program to implement the the Logistic Regression Using Gradient Descent.
 Developed by:k sucharitha
 RegisterNumber:212221240021  
 */
-
+```
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd  
@@ -82,7 +83,7 @@ for i,j in enumerate(np.unique(y_Set)):
   plt.legend()
   plt.show()
 
-
+```
 ## Output:
 ![4 1](https://user-images.githubusercontent.com/94166007/172888308-355f10aa-8c49-4b44-a5c8-01fb055a7541.jpeg)
 
